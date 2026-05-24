@@ -40,6 +40,12 @@ A curated collection of open source software and AI tools I've found useful. Gre
 | **NotebookLM** | [notebooklm.google.com](https://notebooklm.google.com) | Turn your documents into AI-powered notebooks. Create interactive notebooks from PDFs, docs, and web links. |
 | **Google AI Studio** | [aistudio.google.com](https://aistudio.google.com) | Experiment with Google's generative AI models. Test prompts, build prototypes, and integrate AI into your projects. |
 
+### Design & Planning
+
+| Name | Link | Description |
+|------|------|-------------|
+| **LandscapioAI** | [landscapioai.com](https://www.landscapioai.com/) | AI landscape design generator for before/after yard visualizations, cost estimates, planting guides, and contractor-ready plans. |
+
 ---
 
 ## 💡 Why This List?
