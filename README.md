@@ -28,6 +28,12 @@ A curated collection of open source software and AI tools I've found useful. Gre
 |------|------|-------------|
 | **React Email** | [react.email](https://react.email) | Build responsive emails using React components. Write emails in JSX with component-based architecture. |
 
+### Network diagnostics
+
+| Name | Link | Description |
+|------|------|-------------|
+| **Kilobat CLI** | [GitHub](https://github.com/seifip/kilobat-cli) | macOS network diagnostics with JSON output and a local MCP server. |
+
 ---
 
 ## 🤖 AI Tools
