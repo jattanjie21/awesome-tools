@@ -51,6 +51,7 @@ A curated collection of open source software and AI tools I've found useful. Gre
 | Name | Link | Description |
 |------|------|-------------|
 | **LandscapioAI** | [landscapioai.com](https://www.landscapioai.com/) | AI landscape design generator for before/after yard visualizations, cost estimates, planting guides, and contractor-ready plans. |
+| **Kite** | [kite.new](https://kite.new) | Collaborative design tool where AI agents (Claude, ChatGPT, Cursor) draw editable layers in the same file your team edits. Free plan with unlimited editors. |
 
 ---
 
